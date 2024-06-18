@@ -1,0 +1,15 @@
+{
+  "name": "striming_vedio",
+  "version": "1.0.0",
+  "description": "backend of striming vedio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "MERN"
+  ],
+  "author": "shubh-patil",
+  "license": "ISC"
+}

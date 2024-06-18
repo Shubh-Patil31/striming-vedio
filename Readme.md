@@ -1,0 +1,3 @@
+# striming vedio backend series
+
+This is a vedio striming backend with javascript -[data modling link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUI2U2JBbzFTODhpcDd4Q1dxaXFUZHJOTFp4UXxBQ3Jtc0ttckJrbXpwb1lhZm1EUF9Rd1phYktjTjBtVGZVamJSTmFOT1ZiYmVMczVwNXRGLVp6bUtTM2h3X1otcmprUHQ3RjlHLVFDRURVcXhjdUhfcGZzYWlkNGlQbzRWYnVIcHg4WkMwVVdNNEtjTEFSaWJVcw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
