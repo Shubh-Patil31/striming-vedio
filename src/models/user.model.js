@@ -25,7 +25,7 @@ const userSchema = new Schema(
       index: true,
       trim: true,
     },
-    avtar: {
+    avatar: {
       type: String, // clouldinary url
       rquired: true,
     },
@@ -33,7 +33,7 @@ const userSchema = new Schema(
       type: String, // clouldinary url
     },
     watchHistory: {
-      type: Schema.Type.ObjectId,
+      type: Schema.Types.ObjectId,
       ref: "video",
     },
     password: {
@@ -81,4 +81,4 @@ userSchema.methods.generateRefreshToken = function () {
   );
 };
 
-export const User = mongoose.model("User", videoSchema);
+export const User = mongoose.model("User", userSchema);
